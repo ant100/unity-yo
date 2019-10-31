@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "yo_game",
+"productVersion": "0.1",
+"dataUrl": "yo_webgl.data.unityweb",
+"wasmCodeUrl": "yo_webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "yo_webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.11f1"
+}

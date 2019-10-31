@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 80e2ebfebe1ac134f998aae66f04bcdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2881877597740259043
+    second: ventana-ojos_0
+  - first:
+      213: -6692195655448649478
+    second: ventana-ojos_1
+  - first:
+      213: 7001791872499451469
+    second: ventana-ojos_2
+  - first:
+      213: -5059160438007799751
+    second: ventana-ojos_3
+  - first:
+      213: 8659120316221090480
+    second: ventana-ojos_4
+  - first:
+      213: 2509645933081947399
+    second: ventana-ojos_5
+  - first:
+      213: 722245722886042988
+    second: ventana-ojos_6
+  - first:
+      213: 4670053904721276174
+    second: ventana-ojos_7
+  - first:
+      213: -1170242002841189044
+    second: ventana-ojos_8
+  - first:
+      213: 3716496002947181601
+    second: ventana-ojos_9
+  - first:
+      213: -7630297409191263863
+    second: ventana-ojos_10
+  - first:
+      213: -4700394528295210960
+    second: ventana-ojos_11
+  - first:
+      213: 2176869962403941359
+    second: ventana-ojos_12
+  - first:
+      213: -8735933403976554654
+    second: ventana-ojos_13
+  - first:
+      213: 2611463640609418909
+    second: ventana-ojos_14
+  - first:
+      213: 6936006549004196001
+    second: ventana-ojos_15
+  - first:
+      213: 4291594675049577160
+    second: ventana-ojos_16
+  - first:
+      213: 2463820916212161942
+    second: ventana-ojos_17
+  - first:
+      213: 7179842765998884598
+    second: ventana-ojos_18
+  - first:
+      213: 7083062699149171896
+    second: ventana-ojos_19
+  - first:
+      213: 2820543569075059438
+    second: ventana-ojos_20
+  - first:
+      213: 3318252745055820023
+    second: ventana-ojos_21
+  - first:
+      213: 2024678409011776331
+    second: ventana-ojos_22
+  - first:
+      213: -7564628221997475566
+    second: ventana-ojos_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ventana-ojos_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1437
+        width: 454
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6c554dacfb74c49a4eac487c06c0f1
+      internalID: -2881877597740259043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ventana-ojos_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1236
+        width: 454
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb2a9c4d66c3f74e924407b130ee20a
+      internalID: -6692195655448649478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ventana-ojos_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1033
+        width: 454
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c183bb19eb487f74c9e2c34d42d9d7f0
+      internalID: 7001791872499451469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ventana-ojos_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 840
+        width: 454
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d74ebd222cbf894f9575664e8afdc1f
+      internalID: -5059160438007799751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ventana-ojos_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 626
+        width: 454
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bb4a70bcd007a42a5698a538b39229
+      internalID: 8659120316221090480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ventana-ojos_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 418
+        width: 454
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41081832813aad24eb57f2f6353e2fb6
+      internalID: 2509645933081947399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ventana-ojos_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 235
+        width: 454
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f59e41fad3aa1d418f244e9b1d35e81
+      internalID: 722245722886042988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ventana-ojos_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 37
+        width: 454
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389efc65f788db5419a1727d6da5aeb9
+      internalID: 4670053904721276174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4243022700c0e8d43a023224e49e027e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
